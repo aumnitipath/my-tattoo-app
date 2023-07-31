@@ -1,4 +1,4 @@
-const tattoos = [
+let tattoos = [
   {
     title: "Arm OldSchool Tattoo",
     thumbnailUrl: "/images/tattoo-01-small.jpg",
